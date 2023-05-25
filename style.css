@@ -1,0 +1,94 @@
+#pic1{    /* boy sitting on table */
+  float: right;
+  height: 450px;
+  position: absolute;
+  left: 500px;
+  top: 100px;
+}
+.header{
+background-color: #11111d;
+height: 100px;
+width: 1500px;
+border-radius: 30px;
+position: absolute;
+padding-top: 15px;
+}
+.sign{
+  float: right;
+  margin-top: 30px;
+  margin-right: 110px;
+  border-radius: 10px;
+  height: 35px;
+  width: 90px;
+  color: white;
+  border: 0;
+  font-size: 15px;
+  background-image: linear-gradient(to right, #0ef, #fec600);
+}
+
+#portfolio{
+  color: #0ef;
+  font-size: 40px;
+  display: inline-block;
+  margin-left: 57px;
+  margin-top: 17px;
+}
+.tab{
+  color: white;
+  margin-left: 500px;
+  margin-bottom: 100px;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+}
+.tools{
+  color: white;
+  margin-left: 40px;
+  font-size: 20px;
+}
+.tab:hover{
+  color: var(--main-color);
+}
+#lets{
+  position: absolute;
+  top: 100px;
+  left: 140px;
+  height: 50px;
+  width: 200px;
+  font-size: 30px;
+  border-radius: 24px;
+}
+#about{
+  position: absolute;
+  top: 800px;
+  color: white;
+  font-size: 50px;
+  left: 610px;
+}
+
+#a{
+  font-size: 26px;
+  color: white;
+  position: absolute;
+  left: 280px;
+  top: 200px;
+}
+p{
+  color: white;
+  position: absolute;
+  top: 350px;
+  left: 280px;
+  word-spacing: 10px;
+  font-size: 25px;
+}
+body{
+  background-image: linear-gradient(to right,  #080811, #2a2a42 );
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
